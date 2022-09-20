@@ -8,6 +8,8 @@ http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/39408.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Live Sports
 https://skjattagrp.ml/Asports.m3u8
 
+#EXTINF:-1 xui-id="53222" tvg-id="astrosupersport.my" tvg-name="Astro Super Sport 1" tvg-logo="https://iptv.lancartech.co.id:443/images/ce3c6f4098a88251fe7d8d3d60a544eb.png" group-title="VIP Sports",Astro Super Sport 1
+play.cornertv.biz.id:8080/live/Kucoba/12345/72.ts
 #EXTINF:0 tvg-id="ext" group-title="Live BRI LIGA 1",BRI LIGA SEVER 1
 https://etslive-2-vidio-com.akamaized.net/exp=1662217669~acl=/hls-p/ingest_9302_*/*~hmac=1830c66f76f1e7b7edc120c9bebd3453ab3d47c77a012e99c6459649cb49a2f2/hls-p/ingest_9302_720p/index.m3u8
 
