@@ -32,6 +32,3 @@ http://tv.zonanime.my.id/vidio/championstv1.m3u8
 
 #EXTINF:0 tvg-id="ChampionsTV2.id" tvg-logo="https://thumbor.prod.vidiocdn.com/czBGyoVEbdU5E64ZH88sgEfmWXg=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6686/14270d.png" group-title="Sports",Champions 2
 http://tv.zonanime.my.id/vidio/championstv2.m3u8
-
-#EXTINF:0 tvg-id="ChampionsTV3.id" tvg-logo="https://thumbor.prod.vidiocdn.com/RoE6gTfzYNnm1APnwvK_Bi7j_-Y=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6786/d2ebc5.png" group-title="Sports",Champions 3
-http://warkop.cf/86/ligue1/01.m3u8
