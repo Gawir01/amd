@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Live Sports",
-
-#EXTINF:0 tvg-id="ext" group-title="Live Sports",
-
 #EXTINF:0 tvg-id="ext" group-title="Live Sports",LIGA England
 http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/39408.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Live Sports
